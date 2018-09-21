@@ -4,7 +4,8 @@
   "description": "A web crawler to crawl the web",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Hello world!\""
+    "test": "echo \"Hello world!\"",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
