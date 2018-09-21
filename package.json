@@ -1,0 +1,29 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "A web crawler to crawl the web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Hello world!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElementG9/web-crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "webcrawler",
+    "ElementG9"
+  ],
+  "author": "ElementG9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElementG9/web-crawler/issues"
+  },
+  "homepage": "https://github.com/ElementG9/web-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
